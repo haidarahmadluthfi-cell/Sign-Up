@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+body{
+    text-align: center;
+    font-size: 25;
+    background-color: rgba(64, 216, 221, 0.645);
+    background:linear-gradient(to right, #e2e2e2, #c9d6ff)
+}
